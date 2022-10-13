@@ -1,0 +1,171 @@
+[2022-10-13T23:49:01.001Z] [org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin] [RMI TCP Connection(23)-127.0.0.1] [159] [INFO ] Application shutdown requested.
+[2022-10-13T23:57:34.034Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-13T23:59:47.047Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:03:54.054Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:04:40.040Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:06:00.000Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T00:06:22.022Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo1
+[2022-10-14T00:06:52.052Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T00:06:52.052Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:06:52.052Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:06:52.052Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:10:05.005Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T00:12:48.048Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T00:13:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:13:18.018Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:14:29.029Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:15:12.012Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:20:10.010Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T00:20:10.010Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:20:10.010Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T00:20:10.010Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:20:10.010Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:20:11.011Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:20:11.011Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:20:11.011Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:22:53.053Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:46:01.001Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T00:47:07.007Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T01:18:16.016Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:19:40.040Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T01:19:40.040Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T01:22:42.042Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T01:22:42.042Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T01:23:41.041Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo11
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T01:25:45.045Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:27:54.054Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 2
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [87] [INFO ] Executing API to delete employee with id 6
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Cat
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 1
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [76] [INFO ] Executing API to create employee 
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [27] [INFO ] Executing API to get all employees
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [56] [INFO ] Executing API to get highest salary of employee
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [47] [INFO ] Executing API to get employee having id 2
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [38] [INFO ] Executing API to get employees contains string Foo
+[2022-10-14T01:27:55.055Z] [com.example.rqchallenge.employees.impl.EmployeeControllerImpl] [main] [66] [INFO ] Executing API to get top 10 employees having highest salary 
+[2022-10-14T01:53:15.015Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [250] [INFO ] Deleting Employee with id 2
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [263] [INFO ] Employee was deleted successfully
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [250] [INFO ] Deleting Employee with id 
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [263] [INFO ] Employee was deleted successfully
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [250] [INFO ] Deleting Employee with id 2
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [275] [INFO ] Employee deletion failed with message Employee Deletion Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [165] [INFO ] etching Top 10 highest earning employees 
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [50] [INFO ] Successfully fetched Employees List from Dummy Service
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [165] [INFO ] etching Top 10 highest earning employees 
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [65] [ERROR] Fetching Employees List from Dummy Service Failed with message Employee Fetch Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [175] [ERROR] Exception occurred while fetching Top 10 highest earning employees Employee Fetch Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [148] [INFO ] Fetching Highest salary of employee 
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [50] [INFO ] Successfully fetched Employees List from Dummy Service
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [148] [INFO ] Fetching Highest salary of employee 
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [65] [ERROR] Fetching Employees List from Dummy Service Failed with message Employee Fetch Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [156] [ERROR] Exception occurred while fetching Highest salary of employee Employee Fetch Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [103] [INFO ] Fetching Employee List having id  1
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [113] [INFO ] Successfully fetched Employee from Dummy Service
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [103] [INFO ] Fetching Employee List having id  2
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [117] [ERROR] Employee with ID 2 is not found
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [183] [INFO ] Creating Employee
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [197] [INFO ] Employee was created successfully with id 123
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [183] [INFO ] Creating Employee
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [201] [ERROR] There was error while creating employee.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [50] [INFO ] Successfully fetched Employees List from Dummy Service
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [65] [ERROR] Fetching Employees List from Dummy Service Failed with message Employee Fetch Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [84] [INFO ] Fetching Employees List having string  Co
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [50] [INFO ] Successfully fetched Employees List from Dummy Service
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [84] [INFO ] Fetching Employees List having string  ABC
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [39] [INFO ] Executing Method to get all employees
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [65] [ERROR] Fetching Employees List from Dummy Service Failed with message Employee Fetch Failed.
+[2022-10-14T01:53:16.016Z] [com.example.rqchallenge.employees.service.impl.EmployeeServiceImpl] [main] [94] [ERROR] Exception occurred while fetching Employees List having string  ABC Employee Fetch Failed.
+[2022-10-14T02:08:16.016Z] [org.springframework.boot.StartupInfoLogger] [main] [55] [INFO ] Starting RqChallengeApplication using Java 15.0.1 on LAPTOP-F5P3KATA with PID 26560 (C:\Users\sayali.manish\java-employee-challenge\bin\main started by sayali.manish in C:\Users\sayali.manish\java-employee-challenge)
+[2022-10-14T02:08:16.016Z] [org.springframework.boot.SpringApplication] [main] [635] [INFO ] No active profile set, falling back to default profiles: default
+[2022-10-14T02:08:18.018Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2022-10-14T02:08:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2022-10-14T02:08:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2022-10-14T02:08:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.55]
+[2022-10-14T02:08:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2022-10-14T02:08:18.018Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [290] [INFO ] Root WebApplicationContext: initialization completed in 1684 ms
+[2022-10-14T02:08:18.018Z] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2022-10-14T02:08:18.018Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2022-10-14T02:08:18.018Z] [org.springframework.boot.StartupInfoLogger] [main] [61] [INFO ] Started RqChallengeApplication in 3.086 seconds (JVM running for 6.246)
